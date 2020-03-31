@@ -1,5 +1,5 @@
 ## Execute program with Python 3
-### Worlist in place: https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
+### List in place: https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 
 
 ##### DNS enum
