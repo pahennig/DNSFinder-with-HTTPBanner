@@ -14,6 +14,7 @@ def instructions():
 
 def brute_force():
     dns_banner = []
+    print("Brute forcing "+ str(len(dns_list)) +" itens\n")
     for name in dns_list:
         DNS = name + "." + domain
         try:
